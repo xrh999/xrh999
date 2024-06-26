@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @xrh999
 - 👀 I’m interested in chemistry, astronomy, physics and mathematics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and swift
